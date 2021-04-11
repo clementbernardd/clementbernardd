@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementbernardd)](https://github.com/clementbernardd/github-readme-stats)
 
+[![Khuyen's github stats](https://github-readme-stats.vercel.app/api?username=clementbernardd&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/clementbernardd/github-readme-stats)
+
 
 **clementbernardd/clementbernardd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
