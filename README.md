@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- I am a 1st year PhD student at IBISC Laboratory. My thesis subject is about the prediction of RNA 3D structures with Deep learning (and NLP) methods. 
+- I am a 3rd year PhD student at IBISC Laboratory. My thesis subject is about the prediction of RNA 3D structures with Deep learning (and NLP) methods. 
 - I’ve studied Data Science for 4 years at Telecom Paris (for my first year), Eurecom (for my second year) and at Polytechnique Montreal (for two years).
 - I’ve worked during my studies on different projects about Machine learning. 
 - Some of my interest : **Deep Reinforcement Learning**, **Deep learning**, **NLP**, **Recommendation systems**,**Auto-encoder**, **GAN**, **Data visualisation** 
